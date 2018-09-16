@@ -1,0 +1,26 @@
+{
+  "name": "systemjs2-json-plugin",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jamaks/systemjs2-json-plugin.git"
+  },
+  "author": "Jamaks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jamaks/systemjs2-json-plugin/issues"
+  },
+  "homepage": "https://github.com/Jamaks/systemjs2-json-plugin#readme",
+  "dependencies": {
+    "systemjs": "^2.0.0-alpha.1"
+  },
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
